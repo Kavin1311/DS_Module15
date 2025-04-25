@@ -1,5 +1,5 @@
 # Ex12 Binary Search Tree
-## DATE:
+## DATE:25/4/2025
 ## AIM:
 To write a C function to insert the elements in the binary search tree
 
